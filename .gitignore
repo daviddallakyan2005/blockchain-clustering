@@ -1,0 +1,9 @@
+test.py
+test/
+.env
+local/
+.venv/
+.DS_Store
+.idea/
+.pytest_cache/
+.vscode/
